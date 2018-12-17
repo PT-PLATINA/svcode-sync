@@ -7,3 +7,8 @@ id=a3bee4838df261e7130719241fc681af
 GitHub Token: 9f3990990a28ffeb99c080b42fc56b7c994806cc
 GitHub Gist: 145fdac5dbc19362b310538bebb1c028
 GitHub Gist Type: Secret
+
+2018.12.17
+GitHub Token: 00251642f4e3a854296ad45656f2ed7d27fc4855
+GitHub Gist: b88959af892928031e5b1bbf97b452e0
+GitHub Gist Type: Secret
